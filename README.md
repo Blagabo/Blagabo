@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="28">, I'm Gabriel Blanco (Blagabo)</h1>
-<h3 align="center">Passionate Blockchain and Frontend Developer from Venezuela</h3>
+<h3 align="center">Passionate Blockchain and Backend Developer from Venezuela</h3>
 
 ## ▪️ I'm student at [42 Madrid](https://www.42madrid.com) 👨🏻‍💻📘
 
-[![gblanco-'s 42 stats](https://badge42.vercel.app/api/v2/clgzancrj005008l56qt1qtg7/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
+<!-- [![gblanco-'s 42 stats](https://badge42.vercel.app/api/v2/clgzancrj005008l56qt1qtg7/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42) -->
+[![gblanco-'s 42 stats](https://badge.mediaplus.ma/greenbinary/gblanco-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## ▪️ See my 42cursus progress ↙️ 
 
