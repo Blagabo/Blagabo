@@ -8,7 +8,7 @@
 
 ## ▪️ See my 42cursus progress ↙️ 
 
-◦ [42cursus progress](https://github.com/Blagabo/42Cursus)
+- 📚 [42cursus progress](https://github.com/Blagabo/42Cursus)
 
 ## ▪️ Some of our own projects ✅
 
