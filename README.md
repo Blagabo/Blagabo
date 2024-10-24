@@ -55,7 +55,7 @@ Email: gabrielblanconoce5@gmail.com
 
 <p align="left">
 <a href="https://twitter.com/blagabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blagabo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/blagabo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/blagabo/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/blagabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/blagabo/" height="30" width="40" /></a>
 <a href="https://instagram.com/@blagabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@blagabo" height="30" width="40" /></a>
 <a href="https://discord.gg/jgMFejS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jgMFejS" height="30" width="40" /></a>
 </p>
