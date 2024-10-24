@@ -6,9 +6,24 @@
 <!-- [![gblanco-'s 42 stats](https://badge42.vercel.app/api/v2/clgzancrj005008l56qt1qtg7/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42) -->
 [![gblanco-'s 42 stats](https://badge.mediaplus.ma/greenbinary/gblanco-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-## ▪️ See my 42cursus progress ↙️ 
+## ▪️ See my [42cursus progress](https://github.com/Blagabo/42Cursus) ↙️ 
+  <table>
+<tr>
+<th align="left">🌐 Common Core Projects</th>
+</tr>
+<tr>
 
-- 📚 [42cursus progress](https://github.com/Blagabo/42Cursus)
+<td>
+
+| 🌐 Circle 0                                                       | 🌐 Circle 1                                                                       | 🌐 Circle 2                                                             |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Libft](https://github.com/Blagabo/42Cursus/tree/main/libft) ✅🎉 | [Born2BeRoot]() ✅🎉                                                              | [MiniTalk](https://github.com/Blagabo/42Cursus/tree/main/Minitalk) ✅🎉 |
+|                                                                   | [Printf](https://github.com/Blagabo/42Cursus/tree/main/ft_printf) ✅🎉            | [FDF]() 👷‍♂️                                                              |
+|                                                                   | [Get_Next_Line](https://github.com/Blagabo/42Cursus/tree/main/get_next_line) ✅🎉 | [Push_Swap]() 👷‍♂️                                                        |
+
+</td>
+
+</table>
 
 ## ▪️ Some of our own projects ✅
 
