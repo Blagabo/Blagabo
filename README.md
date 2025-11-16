@@ -1,39 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20,%20I%27m%20Gabriel%20Blanco%20(Blagabo)!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 <h3 align="center">Passionate Blockchain and Backend Developer from Venezuela</h3>
 
-## ▪️ I'm student at [42 Madrid](https://www.42madrid.com) 👨🏻‍💻📘
-
-<!-- [![gblanco-'s 42 stats](https://badge42.vercel.app/api/v2/clgzancrj005008l56qt1qtg7/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42) -->
-[![gblanco-'s 42 stats](https://badge.mediaplus.ma/greenbinary/gblanco-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-## ▪️ See my [42cursus progress](https://github.com/Blagabo/42Cursus) ↙️ 
-  <table>
-<tr>
-<th align="left">🌐 Common Core Projects</th>
-</tr>
-<tr>
-
-<td>
-
-| 🌐 Circle 0                                                       | 🌐 Circle 1                                                                       | 🌐 Circle 2                                                             |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [Libft](https://github.com/Blagabo/42Cursus/tree/main/libft) ✅🎉 | [Born2BeRoot]() ✅🎉                                                              | [MiniTalk](https://github.com/Blagabo/42Cursus/tree/main/Minitalk) ✅🎉 |
-|                                                                   | [Printf](https://github.com/Blagabo/42Cursus/tree/main/ft_printf) ✅🎉            | [FDF]() 👷‍♂️                                                              |
-|                                                                   | [Get_Next_Line](https://github.com/Blagabo/42Cursus/tree/main/get_next_line) ✅🎉 | [Push_Swap]() 👷‍♂️                                                        |
-
-</td>
-
 </table>
 
 ## ▪️ Some of our own projects ✅
 
-- 💻 Password Generator with JS [PassGeneretor](https://passgeneretor.blagabo.com)
+- 💻 Password Generator with JS [PassGeneretor]()
 
 - 🌱 I’m currently learning **React, Blockchain, Smarts Contracts**
 
-- 💻 QR Generator with JS [QR Generetor](https://qrgeneretor.blagabo.com)
+- 💻 QR Generator with JS [QR Generetor]()
 
-- 👨‍💻 All my projects are available at (under construction) [https://blagabo.com](https://blagabo.com)
+- 👨‍💻 All my projects are available at (under construction) 
 
 
 ## ▪️ Languages and Tools:
